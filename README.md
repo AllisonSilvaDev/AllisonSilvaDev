@@ -12,6 +12,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=allisonSilvaDev&icon=0&color=11)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
