@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Desenvolvedor Full Stack | Especialista em Django, Java, Python, JavaScript e React | Inovação e Soluções Escaláveis
+💻Desenvolvedor Full Stack | Django, Java, Python, JavaScript e React | Inovação e Soluções Escaláveis
 
 
 # 💻 Tech Stack:
