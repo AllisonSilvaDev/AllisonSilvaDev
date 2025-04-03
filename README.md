@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm a system development technician
+💻Desenvolvedor Full Stack | Especialista em Django, Java, Python, JavaScript e React | Inovação e Soluções Escaláveis
 
 
 # 💻 Tech Stack:
